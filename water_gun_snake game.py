@@ -1,3 +1,7 @@
+#Please welcome us yar..
+print("Welcome to Python Game : Snake,Water,Gun game..")
+#give your name proof that you have created it by..
+print("Coded by Kumarkrishna070997")
 import random
 count=0
 userc=0
